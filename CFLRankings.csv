@@ -1,0 +1,244 @@
+Team Code,Team Name,Win Rate,Win Rate Adj,P(Breaking),Wins,Losses,Logged Rounds
+Mitty AK,(Archbishop Mitty) Aggarwal & Kim,1,1,1,4,0,4
+Gunn PA,(Gunn Sr) Prabhakar & Arun,1,1,1,4,0,4
+Gunn TT,(Gunn Sr) Tan & Tomaszewski,0.82,0.772292994,0.77528544,41,9,50
+Bell FU,(Bellarmine College Prep) Foody & Upadhyayula,0.818181818,0.808510638,0.832129805,18,4,22
+Gunn AS,(Gunn Sr) Arun & Schacter,0.814814815,0.798245614,0.816499384,22,5,27
+James Logan MB,(James Logan) Menotti & Bhasin,0.8,0.8,0.8192,4,1,5
+Bell DM,(Bellarmine College Prep) Dalmia & Manens,0.785714286,0.786764706,0.798547147,11,3,14
+Leland GL,(Leland) Lee & Ghaffari-Kashani,0.777777778,0.777777778,0.784179241,14,4,18
+Mitty PL,(Archbishop Mitty) Lahiri & Ponnuswamy,0.75,0.732954545,0.709214689,48,16,64
+Leland WP,(Leland) Wang & Patil,0.75,0.75,0.73828125,9,3,12
+Gunn DO,(Gunn Sr) Dokiparthi & Olshen,0.75,0.75,0.73828125,6,2,8
+Leland ZL,(Leland) Lim & Zanella,0.75,0.75,0.73828125,6,2,8
+Gunn LX,(Gunn Sr) Xie & Lehot,0.75,0.75,0.73828125,3,1,4
+Gunn LC,(Gunn Sr) Lehot & Cheng,0.75,0.75,0.73828125,3,1,4
+St. Francis AM,(St Francis) Amravathi & Merriman,0.75,0.75,0.73828125,3,1,4
+Mitty MP,(Archbishop Mitty) Ma & Pham,0.75,0.75,0.73828125,3,1,4
+Bell JT,(Bellarmine College Prep) Jain & Talur,0.75,0.75,0.73828125,3,1,4
+Bell KN,(Bellarmine College Prep) Kumar & Narang,0.75,0.75,0.73828125,3,1,4
+Bell SS,(Bellarmine College Prep) Shabbeer & Singh,0.75,0.75,0.73828125,3,1,4
+Gunn JN,(Gunn Sr) Joshi & Ng,0.75,0.75,0.73828125,3,1,4
+Gunn PM,(Gunn Sr) Muthiah & Parulekar,0.75,0.75,0.73828125,3,1,4
+Gunn WF,(Gunn Sr) Flees & Wang,0.75,0.75,0.73828125,3,1,4
+Leland CS,(Leland) Choi & Shih,0.75,0.75,0.73828125,3,1,4
+St. Francis SV,(St Francis) Shen & Verma,0.75,0.75,0.73828125,3,1,4
+Gunn TS,(Gunn Sr) Tomaszewski & Shaotran,0.75,0.75,0.73828125,3,1,4
+Leland KL,(Leland) Kim & Lee,0.75,0.75,0.73828125,3,1,4
+St. Francis VS,(St Francis) Vinod & Sharma,0.75,0.75,0.73828125,3,1,4
+Leland ZK,(Leland) Zhou & Kim,0.75,0.75,0.73828125,3,1,4
+Bell US,(Bellarmine College Prep) Upadhyayula & Saxena,0.75,0.75,0.73828125,3,1,4
+Gunn XS,(Gunn Sr) Xie & Schacter,0.75,0.75,0.73828125,3,1,4
+Gunn SuAr,(Gunn Sr) Suzani & Arun,0.75,0.75,0.73828125,3,1,4
+Gunn PH,(Gunn Sr) Prabhakar & Hamilton,0.740740741,0.745614035,0.730858714,20,7,27
+Gunn JS,(Gunn Sr) Shaotran & Jain,0.727272727,0.718085106,0.68343841,16,6,22
+Gunn XW,(Gunn Sr) Xuan & Wang,0.703703704,0.722727273,0.691521514,19,8,27
+Bell HM,(Bellarmine College Prep) Hiremath & Midha,0.7,0.71728972,0.682050504,21,9,30
+Gunn SX,(Gunn Sr) Xuan & Suzani,0.695652174,0.705882353,0.662061039,16,7,23
+Bell VR,(Bellarmine College Prep) Vergho & Rengarajan,0.68852459,0.733333333,0.709866667,42,19,61
+Bell BV,(Bellarmine College Prep) Bhau & Vishwarupe,0.6875,0.733918129,0.710872733,44,20,64
+Leland LP,(Leland) Lee & Patel,0.681818182,0.701219512,0.653850587,15,7,22
+Bell YR,(Bellarmine College Prep) Yeddula & Kudaravalli,0.675675676,0.541237113,0.376757497,25,12,37
+Mitty DR,(Archbishop Mitty) Dua & Ray,0.666666667,0.655405405,0.572578237,12,6,18
+Bell YK,(Bellarmine College Prep) Yeddula & Kudaravalli,0.666666667,0.681818182,0.619514548,8,4,12
+Bell TJ,(Bellarmine College Prep) Taori & Joseph,0.652173913,0.6625,0.585185474,15,8,23
+Mitty GR,(Archbishop Mitty) Ramarao & Gatlin,0.65,0.659793814,0.580375481,26,14,40
+Gunn PJ,(Gunn Sr) Prabhakar & Jain,0.648648649,0.643835616,0.552050847,24,13,37
+Bell CD,(Bellarmine College Prep) Cappelloni & Donovan,0.642857143,0.639705882,0.544739114,9,5,14
+Mitty PA,(Archbishop Mitty) Aggarwal & Patwa,0.64,0.651360544,0.565395887,32,18,50
+Gunn WX,(Gunn Sr) Xie & Wang,0.631578947,0.619047619,0.508353001,12,7,19
+Bell SM,(Bellarmine College Prep) Saha & Mathur,0.631578947,0.588235294,0.454975395,12,7,19
+Mitty SS,(Archbishop Mitty) Singh & Shaikh,0.630769231,0.689306358,0.632793729,41,24,65
+Gunn KF,(Gunn Sr) Khan & Flees,0.625,0.615384615,0.501943209,5,3,8
+King's BS,(King's) Sunderland & Bowers,0.625,0.615384615,0.501943209,5,3,8
+Saratoga NK,(Saratoga) Narasimhan & Koh,0.625,0.590909091,0.459552797,5,3,8
+Mitty TK,(Archbishop Mitty) Telebrico & Killedar,0.625,0.634615385,0.535741073,5,3,8
+Bell FK,(Bellarmine College Prep) Kudaravalli & Foody,0.625,0.634615385,0.535741073,5,3,8
+Mitty BP,(Archbishop Mitty) Parikh & Belur,0.622222222,0.613138686,0.498020592,28,17,45
+Leland ZT,(Leland) Tong & Zanella,0.608695652,0.593137255,0.463376114,14,9,23
+Mitty ZU,(Archbishop Mitty) Zhou & Upalekar,0.6,0.561688312,0.410227692,15,10,25
+Clovis North KS,(Clovis North) Khanna & Sultan,0.6,0.6,0.4752,3,2,5
+Clovis North MP,(Clovis North) Manjal & Perez,0.6,0.6,0.4752,3,2,5
+Dougherty Valley KB,(Dougherty Valley) Kalra & Bhat,0.6,0.6,0.4752,3,2,5
+James Logan FS,(James Logan) Feng & Shaikh,0.6,0.6,0.4752,3,2,5
+James Logan LM,(James Logan) Lee & Murayama,0.6,0.6,0.4752,3,2,5
+Leland XZ,(Leland) Xing & Zhou,0.6,0.6,0.4752,3,2,5
+Mira Loma YK,(Mira Loma) Yuan & Kodavatikanti,0.6,0.6,0.4752,3,2,5
+Leland AG,(Leland) nan,0.592592593,0.563829787,0.413786129,16,11,27
+Leland KD,(Leland) Kang & Desai,0.583333333,0.590909091,0.459552797,7,5,12
+Bell CA,(Bellarmine College Prep) Chardos & Almeida,0.576923077,0.634831461,0.536122647,15,11,26
+Mitty GuCh,(Archbishop Mitty) Gupta & Chatradhi,0.5625,0.532051282,0.362048833,18,14,32
+Leland DR,(Leland) Ranjan & Desai,0.555555556,0.54787234,0.387510972,15,12,27
+Gunn SM,(Gunn Sr) Muthiah & Samad,0.555555556,0.544117647,0.381412917,5,4,9
+Mitty JK,(Archbishop Mitty) Kim & Joshi,0.545454545,0.593537415,0.464063582,30,25,55
+Gunn SA,(Gunn Sr) Arun & Shaotran,0.545454545,0.545454545,0.383580357,18,15,33
+King's GW,(King's) Glenn & Wang,0.545454545,0.537234043,0.370321618,12,10,22
+Leland LK,(Leland) Kim & Lee,0.526315789,0.52027027,0.343504567,10,9,19
+Gunn PC,(Gunn Sr) Cheng & Parulekar,0.520833333,0.549270073,0.389789531,25,23,48
+Gunn LM,(Gunn Sr) Liao & Meng,0.518518519,0.521929825,0.346094326,14,13,27
+King's CC,(King's) Chaudhry & Chaudhry,0.5,0.494680851,0.304564015,11,11,22
+Gunn GM,(Gunn Sr) Gupta & Muthiah,0.5,0.5,0.3125,9,9,18
+Leland ZZ,(Leland) Zhou & Zhao,0.5,0.5,0.3125,7,7,14
+Bell GF,(Bellarmine College Prep) Garrow & Florentino,0.5,0.5,0.3125,6,6,12
+Gunn SO,(Gunn Sr) Shirts & Olshen,0.5,0.5,0.3125,5,5,10
+Leland PW,(Leland) Patil & Wang,0.5,0.5,0.3125,5,5,10
+Bell PZ,(Bellarmine College Prep) Patel & Zeman,0.5,0.5,0.3125,5,5,10
+Silver Creek VR,(Silver Creek) Vo & Randhawa,0.5,0.5,0.3125,5,5,10
+Gunn HJ,(Gunn Sr) Hsieh & Joshi,0.5,0.5,0.3125,4,4,8
+Leland PZ,(Leland) Pourrahimi & Zhou,0.5,0.5,0.3125,4,4,8
+Leland CM,(Leland) Chan & Moseley,0.5,0.45,0.24148125,4,4,8
+Leland ZC,(Leland) Chen & Zanella,0.5,0.5,0.3125,2,2,4
+Mitty SN,(Archbishop Mitty) Singireddy & Ngan,0.5,0.5,0.3125,2,2,4
+Bell XP,(Bellarmine College Prep) Xu & Palamuttam,0.5,0.5,0.3125,2,2,4
+Leland KZ,(Leland) Kim & Zhou,0.5,0.5,0.3125,2,2,4
+Bell AX,(Bellarmine College Prep) Alappatt & Xu,0.5,0.5,0.3125,2,2,4
+Bell CP,(Bellarmine College Prep) Charagulla & Palamuttam,0.5,0.5,0.3125,2,2,4
+Bell GR,(Bellarmine College Prep) Gaviola & Reynolds,0.5,0.5,0.3125,2,2,4
+Bell MC,(Bellarmine College Prep) Matsumoto & Chettiar,0.5,0.5,0.3125,2,2,4
+Bell FF,(Cristo Rey) Fermin & Funk,0.5,0.5,0.3125,2,2,4
+Gunn MH,(Gunn Sr) Mittal & Hsueh,0.5,0.5,0.3125,2,2,4
+Leland ZO,(Leland) Zhao & Ooi,0.5,0.5,0.3125,2,2,4
+Leland ZP,(Leland) Zhou & Patel,0.5,0.5,0.3125,2,2,4
+Lynbrook ZA,(Lynbrook) Zhang & Agrawal,0.5,0.5,0.3125,2,2,4
+Saratoga WL,(Saratoga) Wang & Li,0.5,0.5,0.3125,2,2,4
+Mitty GoCa,(Archbishop Mitty) Gorgolewski & Cardozo,0.5,0.5,0.3125,2,2,4
+Leland KT,(Leland) Karthik & Tsudama,0.5,0.5,0.3125,2,2,4
+Presentation GP,(Presentation) Ghosh & Prasad,0.5,0.5,0.3125,2,2,4
+St. Francis PV,(St Francis) Pariti & Verma,0.5,0.5,0.3125,2,2,4
+St. Francis SG,(St Francis) Satish & Gandhi,0.5,0.5,0.3125,2,2,4
+Saratoga VK,(Saratoga) Vaidya & Kalra,0.5,0.5,0.3125,2,2,4
+Gunn MS,(Gunn Sr) Mozumder & Schacter,0.5,0.5,0.3125,2,2,4
+Leland AS,(Leland) Asthana & Chen,0.5,0.5,0.3125,2,2,4
+St. Francis KS,(St Francis) Kawahara & Sharma,0.5,0.5,0.3125,2,2,4
+Silver Creek TN,(Silver Creek) Nguyen & Tran,0.5,0.5,0.3125,2,2,4
+Leland TC,(Leland) Tsudama & Chan,0.5,0.5,0.3125,2,2,4
+Saratoga HL,(Saratoga) Hsu & Luo,0.5,0.5,0.3125,2,2,4
+Silver Creek SP,(Silver Creek) Sheth & Pagaria,0.5,0.5,0.3125,2,2,4
+Mitty KK,(Archbishop Mitty) Korolik & Kang,0.48,0.467532468,0.265445029,12,13,25
+Bell PR,(Bellarmine College Prep) Patel & Raphael,0.476190476,0.442857143,0.232024865,10,11,21
+Gunn GK,(Gunn Sr) Kumar & Gupta,0.470588235,0.49122807,0.299458858,8,9,17
+Leland CA,(Leland) Chan & Avlani,0.466666667,0.466666667,0.264237037,7,8,15
+Gunn HW,(Gunn Sr) Hamilton & Wang,0.452380952,0.441558442,0.230324995,19,23,42
+Silver Creek RV,(Silver Creek) Vo & Randhawa,0.45,0.470238095,0.26923617,18,22,40
+Bell IG,(Bellarmine College Prep) Iyengar & Gorthi,0.444444444,0.420731707,0.203900467,8,10,18
+Gunn KG,(Gunn Sr) Khan & Goetz,0.444444444,0.423076923,0.206796418,4,5,9
+Mitty VC,(Archbishop Mitty) Veeramacheneni & Chatradhi,0.444444444,0.444444444,0.234110654,4,5,9
+Bell YH,(Bellarmine College Prep) Yeddula & Hiremath,0.444444444,0.444444444,0.234110654,4,5,9
+Lynbrook AZ,(Lynbrook) Agrawal & Zhang,0.428571429,0.421875,0.205309689,6,8,14
+Bell ZL,(Bellarmine College Prep) Litinsky & Zeman,0.416666667,0.397727273,0.176591745,5,7,12
+St. Francis PS,(St Francis) Pariti & Satish,0.416666667,0.397727273,0.176591745,5,7,12
+Mitty AA,(Archbishop Mitty) Athreya & Ambati,0.416666667,0.431818182,0.217769502,5,7,12
+Leland CW,(Leland) Chen & Wang,0.416666667,0.455882353,0.249403453,5,7,12
+Presentation RA,(Presentation) Ramchandani & Ahmed,0.413793103,0.365384615,0.141652543,12,17,29
+Bell TP,(Bellarmine College Prep) Trivedi & Patel,0.4,0.394736842,0.173190142,8,12,20
+Mitty UZ,(Archbishop Mitty) Upalekar & Zhou,0.4,0.4,0.1792,4,6,10
+Leland ZS,(Leland) Zhou & Shih,0.4,0.4,0.1792,4,6,10
+Dougherty Valley MK,(Dougherty Valley) Mishra & Kotapati,0.4,0.4,0.1792,2,3,5
+Granite Bay GW,(Granite Bay) Gonur & Wan,0.4,0.4,0.1792,2,3,5
+Gunn NS,(Gunn Sr) Ng & Shirts,0.4,0.4,0.1792,2,3,5
+Gunn OL,(Gunn Sr) Olshen & Liao,0.4,0.4,0.1792,2,3,5
+James Logan LS,(James Logan) Lim & Sharma,0.4,0.4,0.1792,2,3,5
+St. Francis KP,(St Francis) Kamat & Pratap,0.4,0.4,0.1792,2,3,5
+Stockdale RS,(Stockdale) Ruiz & Scully,0.4,0.4,0.1792,2,3,5
+Silver Creek CG,(Silver Creek) Chinthala & Goli,0.388888889,0.402439024,0.182021166,7,11,18
+King's JK,(King's) Jandhyala & Koruga,0.375,0.365384615,0.141652543,3,5,8
+Leland CX,(Leland) Xing & Chen,0.375,0.390625,0.168569386,3,5,8
+Silver Creek KO,(Silver Creek) Kandaswamy & Syed,0.375,0.4,0.1792,3,5,8
+Silver Creek OK,(Silver Creek) Kaur & Odio,0.375,0.4,0.1792,3,5,8
+Gunn LK,(Gunn Sr) Lo & Khan,0.375,0.384615385,0.161934106,3,5,8
+Leland PS,(Leland) Pourrahimi & Seetharaman,0.375,0.384615385,0.161934106,3,5,8
+Gunn GX,(Gunn Sr) Goetz & Xie,0.333333333,0.333333333,0.111111111,5,10,15
+Mitty IC,(Archbishop Mitty) Iyer & Chhatwal,0.333333333,0.318181818,0.098102076,4,8,12
+Silver Creek LK,(Silver Creek) Lam & Kufeldt,0.333333333,0.333333333,0.111111111,4,8,12
+St. Francis KD,(St Francis) Karim & Dsouza,0.333333333,0.342105263,0.119062258,3,6,9
+Leland PK,(Leland) Kang & Patil,0.305555556,0.276923077,0.067302517,11,25,36
+Silver Creek TV,(Silver Creek) Tran & Verma,0.3,0.3,0.0837,3,7,10
+Cristo Rey FF,(Cristo Rey) Fermin & Funk,0.3,0.3,0.0837,3,7,10
+Silver Creek JS,(Silver Creek) Jain & Singamsetty,0.290909091,0.282679739,0.071197517,16,39,55
+Downtown College Prep AM,(Downtown College Prep) Arciniega & McGinnis,0.285714286,0.2890625,0.075667549,4,10,14
+Silver Creek KL,(Silver Creek) Kufeldt & Lam,0.263157895,0.263513514,0.058727372,5,14,19
+Silver Creek GG,(Silver Creek) Goel & Gandhasri,0.260869565,0.21875,0.035000801,6,17,23
+Leland PR,(Leland) Patel & Ranjan,0.25,0.25,0.05078125,3,9,12
+Presentation RV,(Presentation) Ramchandani & Vasan,0.25,0.25,0.05078125,2,6,8
+Gunn GN,(Gunn Sr) Goetz & Ng,0.25,0.269230769,0.062298677,2,6,8
+Silver Creek ON,(Silver Creek) Ouk & Nguyen,0.25,0.25,0.05078125,2,6,8
+St. Francis CP,(St Francis) Cheng & Paun,0.25,0.25,0.05078125,1,3,4
+Mitty PM,(Archbishop Mitty) Pham & Ma,0.25,0.25,0.05078125,1,3,4
+Bell JK,(Bellarmine College Prep) Jain & Kumar,0.25,0.25,0.05078125,1,3,4
+Downtown College Prep GR,(Downtown College Prep) Gonzales & Rodriguez,0.25,0.25,0.05078125,1,3,4
+Gunn SH,(Gunn Sr) Shirts & Hsueh,0.25,0.25,0.05078125,1,3,4
+Yerba Buena NB,(Yerba Buena) Best & Nguyen,0.25,0.25,0.05078125,1,3,4
+Mitty NS,(Archbishop Mitty) Ngan & Singireddy,0.25,0.25,0.05078125,1,3,4
+Bell AC,(Bellarmine College Prep) Almeida & Chardos,0.25,0.25,0.05078125,1,3,4
+Bell BJ,(Bellarmine College Prep) Broccoli & Juneja,0.25,0.25,0.05078125,1,3,4
+Gunn AL,(Gunn Sr) Alexis & Liao,0.25,0.25,0.05078125,1,3,4
+Kipp San Jose Collegiate HL,(Kipp San Jose Collegiate) Huynh & Le,0.25,0.25,0.05078125,1,3,4
+Kipp San Jose Collegiate NN,(Kipp San Jose Collegiate) Ngo & Nguyen,0.25,0.25,0.05078125,1,3,4
+Kipp San Jose Collegiate RP,(Kipp San Jose Collegiate) Ron-Lopez & Pham,0.25,0.25,0.05078125,1,3,4
+Leland LC,(Leland) Lee & Chen,0.25,0.25,0.05078125,1,3,4
+Leland SM,(Leland) Shoji & Mitra,0.25,0.25,0.05078125,1,3,4
+Leland ZW,(Leland) Zhou & Wu,0.25,0.25,0.05078125,1,3,4
+St. Francis NS,(St Francis) Nguyen & Sharma,0.25,0.25,0.05078125,1,3,4
+Gunn WG,(Gunn Sr) Wang & Goetz,0.25,0.25,0.05078125,1,3,4
+St. Francis SE,(St Francis) Sharma & Esperacion,0.25,0.25,0.05078125,1,3,4
+Gunn JX,(Gunn Sr) Jain & Xie,0.25,0.25,0.05078125,1,3,4
+Leland NR,(Leland) Nguyen & Rao,0.25,0.25,0.05078125,1,3,4
+Leland NZ,(Leland) Nouri & Zomorrodi,0.25,0.25,0.05078125,1,3,4
+Silver Creek SS,(Silver Creek) Solanki & Sheth,0.25,0.25,0.05078125,1,3,4
+Leland NL,(Leland) Navin Chander & Liu,0.25,0.25,0.05078125,1,3,4
+Saratoga CL,(Saratoga) Chu & Luk,0.25,0.25,0.05078125,1,3,4
+Saratoga SR,(Saratoga) Shah & Ramachandran,0.25,0.25,0.05078125,1,3,4
+Silver Creek SV,(Silver Creek) Shin & Verma,0.25,0.25,0.05078125,1,3,4
+Silver Creek KR,(Silver Creek) Kaur & Randhawa,0.214285714,0.213235294,0.032580261,3,11,14
+Saratoga NS,(Saratoga) Novoselov & Sankar,0.2,0.2,0.0272,3,12,15
+Saratoga HY,(Saratoga) Hsu & Yang,0.2,0.2,0.0272,2,8,10
+Saratoga LW,(Saratoga) Li & Wang,0.2,0.2,0.0272,2,8,10
+King's KJ,(King's) Koruga & Jandhyala,0.2,0.2,0.0272,2,8,10
+James Enochs KT,(James Enochs) Kopecki & Timpone,0.2,0.2,0.0272,1,4,5
+Leland ChZh,(Leland) Choi & Zhao,0.2,0.2,0.0272,1,4,5
+Leland SW,(Leland) Shoji & Wei,0.2,0.2,0.0272,1,4,5
+Orosi WN,(Orosi) Widman & Nava,0.2,0.2,0.0272,1,4,5
+Presentation BP,(Presentation) Bellot & Prasad,0.166666667,0.166666667,0.016203704,1,5,6
+Saratoga TX,(Saratoga) Tambe & Xiao,0.157894737,0.155405405,0.013262895,3,16,19
+Yerba Buena BG,(Yerba Buena) Bui & Gaerlan,0.142857143,0.15625,0.01347065,2,12,14
+Silver Creek NS,(Silver Creek) Nguyen & Solanki,0.125,0.175,0.018623828,1,7,8
+Cristo Rey DG,(Cristo Rey) Diaz & Gudino,0.071428571,0.0546875,0.000627387,1,13,14
+Yerba Buena NN,(Yerba Buena) Nguyen & Nguyen,0.071428571,0.066176471,0.001101698,1,13,14
+Presentation NG,(Presentation) Ghosh & Nguyen,0,0,0,0,10,10
+Cristo Rey SC,(Cristo Rey) Stattion & Correia,0,0,0,0,10,10
+Leland CZ,(Leland) Cho & Zheng,0,0,0,0,5,5
+Bell IJ,(Bellarmine College Prep) Jain & Iyengar,0,0,0,0,4,4
+Leland NT,(Leland) Navin Chander & Tong,0,0,0,0,4,4
+Silver TO,(Silver Creek) Tran & Ouk,0,0,0,0,4,4
+Cristo Rey GS,(Cristo Rey) Garcia & Stattion,0,0,0,0,4,4
+Yerba Buena NC,(Yerba Buena) Ngo & Castanon,0,0,0,0,4,4
+Yerba Buena NG,(Yerba Buena) Nguyen & Gadingan,0,0,0,0,4,4
+Yerba Buena NH,(Yerba Buena) Nguyen & Herera,0,0,0,0,4,4
+Yerba Buena SC,(Yerba Buena) Stewart & Castro,0,0,0,0,4,4
+Kipp San Jose Collegiate CN,(Kipp San Jose Collegiate) Chiprez & Nguyen,0,0,0,0,4,4
+Kipp San Jose Collegiate MG,(Kipp San Jose Collegiate) Mendoza & Garcia,0,0,0,0,4,4
+Kipp San Jose Collegiate NH,(Kipp San Jose Collegiate) Nguyen & Ho,0,0,0,0,4,4
+Kipp San Jose Collegiate NW,(Kipp San Jose Collegiate) Nguyen & Win,0,0,0,0,4,4
+Kipp San Jose Collegiate SN,(Kipp San Jose Collegiate) Silva & Nguyen,0,0,0,0,4,4
+Silver Creek GR,(Silver Creek) Goel & Randhawa,0,0,0,0,4,4
+Mt. Pleasant AR,(Mt Pleasant) Alvarez & Requierme,0,0,0,0,4,4
+Silver Creek AR,(Silver Creek) Afroz & Randhawa,0,0,0,0,4,4
+Silver Creek AU,(Silver Creek) Aguirre & Uk,0,0,0,0,4,4
+Silver Creek PG,(Silver Creek) Pagaria & Gandhasri,0,0,0,0,4,4
+Leland AL,(Leland) Ahn & Liu,0,0,0,0,4,4
+Leland KN,(Leland) Kim & Navin Chander,0,0,0,0,4,4
+Leland TS,(Leland) Tong & Schrama,0,0,0,0,4,4
+Oak Grove AD,(Oak Grove) De Leon & Armenta,0,0,0,0,4,4
+Silver Creek UL,(Silver Creek) Uk & Lin,0,0,0,0,4,4
+Bell ZD,(Bellarmine College Prep) Zeman & Dhanasekaran,0,0,0,0,4,4
+Mt. Pleasant GS,(Mt Pleasant) Guevara & Solatorio,0,0,0,0,4,4
+Saratoga CK,(Saratoga) Chen & Kaza,0,0,0,0,4,4
+Leland PT,(Leland) Patil & Tong,0,0,0,0,0,0
+Mitty AS,(Archbishop Mitty) Aggarwal & Singh,0,0,0,0,0,0
+Mitty LP,(Archbishop Mitty) Lahiri & Ponnuswamy,0,0,0,0,0,0
+Gunn TC,(Gunn Sr) Tan & Cheng,0,0,0,0,0,0
+Gunn SS,(Gunn Sr) Suzani & Shaotran,0,0,0,0,0,0
+Silver Creek SJ,(Silver Creek) Singamsetty & Jain,0,0,0,0,0,0
+Leland XL,(Leland) Xing & Lee,0,0,0,0,0,0
+,,,,,,,
+© Ethan Shaotran 2019,,,,,,,

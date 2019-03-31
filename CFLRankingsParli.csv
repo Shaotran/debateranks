@@ -1,0 +1,174 @@
+Team Code,Team Name,Win Rate,Win Rate Adj,P(Breaking),Wins,Losses,Logged Rounds
+Clovis North NM,(Clovis North) Narain & Manjal,1.0,1.0,1.0,5.0,0.0,5.0
+Davis Senior KC,(Davis Senior) Keller & Clegg,1.0,1.0,1.0,5.0,0.0,5.0
+El Cerrito DS,(El Cerrito) Dowling & St-Jean,1.0,1.0,1.0,5.0,0.0,5.0
+Mitty MV,(Archbishop Mitty) Makhni & Vamshidhar,1.0,1.0,1.0,4.0,0.0,4.0
+Homestead TM,(Homestead) Thurm & McAllister,1.0,1.0,1.0,4.0,0.0,4.0
+Menlo-Atherton NW,(Menlo-Atherton) Wilson & Nelson,1.0,1.0,1.0,4.0,0.0,4.0
+Menlo-Atherton IG,(Menlo-Atherton) Ikonomou & Gordan,0.866666666667,0.871428571429,0.916999458559,13.0,2.0,15.0
+Mitty BG,(Archbishop Mitty) Bajaj & Getayalew,0.833333333333,0.831168831169,0.865037650654,15.0,3.0,18.0
+Mitty TK,(Archbishop Mitty) Telebrico & Killedar,0.833333333333,0.831168831169,0.865037650654,15.0,3.0,18.0
+Bishop OL,(Bishop O'Dowd) O'Rafferty & Laubstein,0.8,0.8,0.8192,4.0,1.0,5.0
+Campolindo BY,(Campolindo) Bonet & Yuan,0.8,0.8,0.8192,4.0,1.0,5.0
+Dougherty FW,(Dougherty Valley) Finnessey & Wang,0.8,0.8,0.8192,4.0,1.0,5.0
+Dougherty KW,(Dougherty Valley) Khan & Wu,0.8,0.8,0.8192,4.0,1.0,5.0
+Evergreen BC,(Evergreen Valley) Batra & Chahal,0.8,0.8,0.8192,4.0,1.0,5.0
+Evergreen CC,(Evergreen Valley) Chickerur & Corcoran,0.8,0.8,0.8192,4.0,1.0,5.0
+Lowell TY,(Lowell) Tokarzewski & Ying,0.8,0.8,0.8192,4.0,1.0,5.0
+Menlo-Atherton IH,(Menlo-Atherton) Ives & Hammel,0.8,0.8,0.8192,4.0,1.0,5.0
+Menlo-Atherton NK,(Menlo-Atherton) Nelson & Koenig,0.8,0.8,0.8192,4.0,1.0,5.0
+Mountain View LS,(Mountain View) Lee & Stankus,0.8,0.8,0.8192,4.0,1.0,5.0
+Woodcreek ES,(Woodcreek) Esty & Solano,0.8,0.8,0.8192,4.0,1.0,5.0
+Gunn SB,(Gunn Sr) Su & Banerjee,0.789473684211,0.791176470588,0.805501406607,15.0,4.0,19.0
+Aptos WS,(Aptos) Walton & Sandler,0.75,0.75,0.73828125,6.0,2.0,8.0
+Mitty BW,(Archbishop Mitty) Ballou & Woo,0.75,0.75,0.73828125,3.0,1.0,4.0
+Homestead CT,(Homestead) Cheng & Thurm,0.75,0.75,0.73828125,3.0,1.0,4.0
+Monta Vista ST,(Monta Vista) Shaikh & Thirumavalavan,0.75,0.75,0.73828125,3.0,1.0,4.0
+Mitty VK,(Archbishop Mitty) Vaidyanath & Krause,0.75,0.75,0.73828125,3.0,1.0,4.0
+Leland NL,(Leland) Nguyen & Luh,0.75,0.75,0.73828125,3.0,1.0,4.0
+Los Altos TC,(Los Altos) Tierling & Colace,0.75,0.75,0.73828125,3.0,1.0,4.0
+Los Gatos FC,(Los Gatos) Fox & Cruz,0.75,0.75,0.73828125,3.0,1.0,4.0
+Menlo-Atherton FK,(Menlo-Atherton) Fabrega & Kelly,0.75,0.75,0.73828125,3.0,1.0,4.0
+Menlo-Atherton FH,(Menlo-Atherton) Fahey & Hartsell,0.75,0.75,0.73828125,3.0,1.0,4.0
+Menlo-Atherton GG,(Menlo-Atherton) Golob & Giarrusso,0.75,0.75,0.73828125,3.0,1.0,4.0
+Menlo-Atherton HI,(Menlo-Atherton) Hammel & Ives,0.75,0.75,0.73828125,3.0,1.0,4.0
+Menlo-Atherton YM,(Menlo-Atherton) Young & Mihovilovic,0.75,0.75,0.73828125,3.0,1.0,4.0
+Monta Vista DP,(Monta Vista) Datta & Parvathaneni,0.75,0.75,0.73828125,3.0,1.0,4.0
+Cupertino XD,(Cupertino) Xiong & Du,0.736842105263,0.707317073171,0.664583098146,14.0,5.0,19.0
+Cupertino SR,(Cupertino) Singhai & Rajkumar,0.714285714286,0.692307692308,0.638107909387,10.0,4.0,14.0
+Mitty VM,(Archbishop Mitty) Vamshidhar & Makhni,0.7,0.7,0.6517,7.0,3.0,10.0
+Menlo-Atherton NB,(Menlo-Atherton) Nori & Bhasin,0.684210526316,0.658536585366,0.578141251153,13.0,6.0,19.0
+Mitty SP,(Archbishop Mitty) Sutaria & Patel,0.684210526316,0.6875,0.629592895508,13.0,6.0,19.0
+Evergreen DG,(Evergreen Valley) Dadbhawala & Guggilla,0.631578947368,0.634146341463,0.53491289603,12.0,7.0,19.0
+Gunn CL,(Gunn Sr) Cheng & Li,0.62962962963,0.604347826087,0.482726389986,17.0,10.0,27.0
+Evergreen KF,(Evergreen Valley) Kotha & Frazer,0.6,0.6,0.4752,9.0,6.0,15.0
+Menlo-Atherton WH,(Menlo-Atherton) Waitz & Hartsell,0.6,0.6,0.4752,6.0,4.0,10.0
+Bentley RH,(Bentley) Reddy & Hubinger,0.6,0.6,0.4752,3.0,2.0,5.0
+Bishop JK,(Bishop O'Dowd) Jacobsen & Kuiper Rauch,0.6,0.6,0.4752,3.0,2.0,5.0
+Campolindo VB,(Campolindo) Visht & Belinsky,0.6,0.6,0.4752,3.0,2.0,5.0
+Claremont RW,(Claremont) Rumbos-Perez & Walburg,0.6,0.6,0.4752,3.0,2.0,5.0
+Clovis North ER,(Clovis North) Erysian & Rauf,0.6,0.6,0.4752,3.0,2.0,5.0
+Davis Senior TG,(Davis Senior) Tang & Gao,0.6,0.6,0.4752,3.0,2.0,5.0
+Dougherty SL,(Dougherty Valley) Sharma & Luo,0.6,0.6,0.4752,3.0,2.0,5.0
+Evergreen UP,(Evergreen Valley) Umrani & Pammar,0.6,0.6,0.4752,3.0,2.0,5.0
+Granite Bay AK,(Granite Bay) Alvarez & Kazim,0.6,0.6,0.4752,3.0,2.0,5.0
+Granite Bay PB,(Granite Bay) Parikh & Batriedo,0.6,0.6,0.4752,3.0,2.0,5.0
+Granite Bay PP,(Granite Bay) Panchapakesan & Pandey,0.6,0.6,0.4752,3.0,2.0,5.0
+Los Altos LJ,(Los Altos) Lahdesmaki & Jakatdar,0.6,0.6,0.4752,3.0,2.0,5.0
+Los Altos ZT,(Los Altos) Zhou & Tierling,0.6,0.6,0.4752,3.0,2.0,5.0
+Lowell SC,(Lowell) Chang & Song,0.6,0.6,0.4752,3.0,2.0,5.0
+Lowell CS,(Lowell) Chen & Stroumza,0.6,0.6,0.4752,3.0,2.0,5.0
+Lowell CT,(Lowell) Chen & Thurber,0.6,0.6,0.4752,3.0,2.0,5.0
+Menlo-Atherton RC,(Menlo-Atherton) Rangarajan & Chen,0.6,0.6,0.4752,3.0,2.0,5.0
+Modesto DV,(Modesto) Dagher & Vijaykumar,0.6,0.6,0.4752,3.0,2.0,5.0
+Mountain House DW,(Mountain House) Dean & Watson,0.6,0.6,0.4752,3.0,2.0,5.0
+Stockdale GK,(Stockdale) Gorla & Kasula,0.6,0.6,0.4752,3.0,2.0,5.0
+Valley HP,(Valley International Prep) Horvath & Paluck,0.6,0.6,0.4752,3.0,2.0,5.0
+Woodcreek HL,(Woodcreek) Hubbard & Lobotzke,0.6,0.6,0.4752,3.0,2.0,5.0
+Mitty PL,(Archbishop Mitty) Park & Lee,0.571428571429,0.538461538462,0.372290886173,8.0,6.0,14.0
+Mitty GV,(Archbishop Mitty) Gorgolewski & Vargas,0.565217391304,0.53,0.35879357,13.0,10.0,23.0
+Evergreen BD,(Evergreen Valley) Bao & Dong,0.555555555556,0.5625,0.411575317383,5.0,4.0,9.0
+Mitty WC,(Archbishop Mitty) Woo & Chen,0.555555555556,0.552631578947,0.395287885299,5.0,4.0,9.0
+Cupertino KU,(Cupertino) Kaul & Uppiliappan,0.526315789474,0.517647058824,0.33942643407,10.0,9.0,19.0
+Nueva SC,(Nueva) Sharma & Chu,0.5,0.492647058824,0.301552473166,7.0,7.0,14.0
+Notre Dame MM,(Notre Dame) Maly & Madireddy,0.5,0.5,0.3125,7.0,7.0,14.0
+Gunn AC,(Gunn Sr) Agarwal & Chung,0.5,0.5,0.3125,5.0,5.0,10.0
+Evergreen PJ,(Evergreen Valley) Parekh & Jakka,0.5,0.5,0.3125,2.0,2.0,4.0
+Evergreen UZ,(Evergreen Valley) Umrani & Zhang,0.5,0.5,0.3125,2.0,2.0,4.0
+Gunn BC,(Gunn Sr) Banerjee & Chung,0.5,0.5,0.3125,2.0,2.0,4.0
+Menlo-Atherton WK,(Menlo-Atherton) Waitz & Kuhlmann,0.5,0.5,0.3125,2.0,2.0,4.0
+Monta Vista FY,(Monta Vista) Feng & Yin,0.5,0.5,0.3125,2.0,2.0,4.0
+Pinewood PT,(Pinewood) Pistelak & Tsu,0.5,0.5,0.3125,2.0,2.0,4.0
+Mitty WR,(Archbishop Mitty) Woo & Ray,0.5,0.5,0.3125,2.0,2.0,4.0
+Cupertino CB,(Cupertino) Cho & Bharvirkar,0.5,0.5,0.3125,2.0,2.0,4.0
+Cupertino WD,(Cupertino) Wang & Du,0.5,0.5,0.3125,2.0,2.0,4.0
+Leland JG,(Leland) Jiang & Gamota,0.5,0.5,0.3125,2.0,2.0,4.0
+Sequoia PV,(Sequoia) Popper & Van Bruggen,0.5,0.5,0.3125,2.0,2.0,4.0
+Washington VK,(Washington) Vohra & Kunta,0.5,0.5,0.3125,2.0,2.0,4.0
+Gunn SA,(Gunn Sr) Su & Agarwal,0.5,0.5,0.3125,2.0,2.0,4.0
+Leland RN,(Leland) Rasuli & Nakhkoob,0.5,0.5,0.3125,2.0,2.0,4.0
+Los Altos HV,(Los Altos) Hinnant & Varamballi,0.5,0.5,0.3125,2.0,2.0,4.0
+Menlo-Atherton GL,(Menlo-Atherton) Gutheil & Loza,0.5,0.5,0.3125,2.0,2.0,4.0
+Sequoia NM,(Sequoia) Nino-Sears & Mancini,0.5,0.5,0.3125,2.0,2.0,4.0
+Sequoia SW,(Sequoia) Sawyer & Ward,0.5,0.5,0.3125,2.0,2.0,4.0
+Sequoia SO,(Sequoia) Simon & Olson,0.5,0.5,0.3125,2.0,2.0,4.0
+Nueva TT,(Nueva) Turner & Turner,0.5,0.5,0.3125,2.0,2.0,4.0
+Washington DC,(Washington) Devadhar & Chury,0.5,0.5,0.3125,2.0,2.0,4.0
+Westmont IY,(Westmont) Ivchenko & Yadav,0.5,0.5,0.3125,2.0,2.0,4.0
+Menlo-Atherton BY,(Menlo-Atherton) Bae & Yu,0.428571428571,0.41935483871,0.202209803567,6.0,8.0,14.0
+Cupertino CP,(Cupertino) Cho & Pandian,0.4,0.4,0.1792,6.0,9.0,15.0
+Leland NN,(Leland) Nakhkoob & Nguyen,0.4,0.4,0.1792,4.0,6.0,10.0
+Analy VC,(Analy) Valencia & Christenson,0.4,0.4,0.1792,2.0,3.0,5.0
+Aragon HH,(Aragon) Hao & Hao,0.4,0.4,0.1792,2.0,3.0,5.0
+Campolindo DZ,(Campolindo) Dao & Zhao,0.4,0.4,0.1792,2.0,3.0,5.0
+Campolindo MS,(Campolindo) Mao & Spires,0.4,0.4,0.1792,2.0,3.0,5.0
+Claremont AR,(Claremont) Abarca & Rumbos,0.4,0.4,0.1792,2.0,3.0,5.0
+Davis Senior ME,(Davis Senior) Marias & Engotto,0.4,0.4,0.1792,2.0,3.0,5.0
+Granite Bay KE,(Granite Bay) Krishnan & Elahi,0.4,0.4,0.1792,2.0,3.0,5.0
+James Enochs SZ,(James Enochs) Sharma & Zaw,0.4,0.4,0.1792,2.0,3.0,5.0
+Lowell HG,(Lowell) Higgins & Giang,0.4,0.4,0.1792,2.0,3.0,5.0
+Lowell VJ,(Lowell) Verzhbinsky & Juvara,0.4,0.4,0.1792,2.0,3.0,5.0
+Menlo-Atherton BG,(Menlo-Atherton) Bae & Briggs,0.4,0.4,0.1792,2.0,3.0,5.0
+Menlo-Atherton MH,(Menlo-Atherton) Mediratta & Hartsell,0.4,0.4,0.1792,2.0,3.0,5.0
+Mira Loma SR,(Mira Loma) Sood & Richards,0.4,0.4,0.1792,2.0,3.0,5.0
+Monta Vista DM,(Monta Vista) De & Mishra,0.4,0.4,0.1792,2.0,3.0,5.0
+Mountain House BP,(Mountain House) Bains & Pothuru,0.4,0.4,0.1792,2.0,3.0,5.0
+Santa Rosa BF,(Santa Rosa HS) Bhana & Flores,0.4,0.4,0.1792,2.0,3.0,5.0
+Santa Rosa CS,(Santa Rosa HS) Curtin & Siple,0.4,0.4,0.1792,2.0,3.0,5.0
+Santa Rosa FG,(Santa Rosa HS) Foote & Gurtovoy,0.4,0.4,0.1792,2.0,3.0,5.0
+Santa Rosa MB,(Santa Rosa HS) Mckamey & Brown,0.4,0.4,0.1792,2.0,3.0,5.0
+Santa Rosa PD,(Santa Rosa HS) Petersen & Diaz,0.4,0.4,0.1792,2.0,3.0,5.0
+Woodcreek HH,(Woodcreek) Hellar & High,0.4,0.4,0.1792,2.0,3.0,5.0
+Leland RP,(Leland) Rasuli & Patel,0.391304347826,0.378640776699,0.155477281426,9.0,14.0,23.0
+Aptos MW,(Aptos) Mcguckin & Walton,0.375,0.386363636364,0.163849858702,3.0,5.0,8.0
+Cupertino VK,(Cupertino) Venkatramani & Krishnan,0.375,0.386363636364,0.163849858702,3.0,5.0,8.0
+Notre Dame TT,(Notre Dame) Tran & Tong,0.357142857143,0.338709677419,0.115947891277,5.0,9.0,14.0
+Washington SV,(Washington) Vemula & Shiva,0.357142857143,0.326923076923,0.105495283122,5.0,9.0,14.0
+Lynbrook SW,(Lynbrook) Shao & Wang,0.357142857143,0.346153846154,0.122835772557,5.0,9.0,14.0
+Menlo-Atherton PJ,(Menlo-Atherton) Patnaik & Jones,0.333333333333,0.3125,0.0934600830078,3.0,6.0,9.0
+Gunn CT,(Gunn Sr) Chen & Tian,0.333333333333,0.342105263158,0.11906225781,3.0,6.0,9.0
+Mitty BP,(Archbishop Mitty) Ballou & Pheonix,0.333333333333,0.328947368421,0.1072509479,3.0,6.0,9.0
+Westmont KC,(Westmont) Kulashekar & Caraccio,0.285714285714,0.272058823529,0.0641117209903,4.0,10.0,14.0
+Leland TN,(Leland) Tsudama & Nakhkoob,0.25,0.25,0.05078125,2.0,6.0,8.0
+Aptos BM,(Aptos) Buchanan & Marschall-Niswonger,0.25,0.227272727273,0.0389531111263,2.0,6.0,8.0
+Leland SC,(Leland) Schmuelling & Chen,0.25,0.25,0.05078125,2.0,6.0,8.0
+Leland WR,(Leland) Wang & Robey,0.25,0.25,0.05078125,2.0,6.0,8.0
+Mitty PC,(Archbishop Mitty) Pheonix & Chen,0.25,0.25,0.05078125,1.0,3.0,4.0
+Cupertino KP,(Cupertino) Kaul & Rajkumar,0.25,0.25,0.05078125,1.0,3.0,4.0
+Los Altos BW,(Los Altos) Bryan & Welborn,0.25,0.25,0.05078125,1.0,3.0,4.0
+Monta Vista CJ,(Monta Vista) Chen & Junankar,0.25,0.25,0.05078125,1.0,3.0,4.0
+Nueva BG,(Nueva) Ball & Garvin,0.25,0.25,0.05078125,1.0,3.0,4.0
+Los Gatos FS,(Los Gatos) Fox & Sun,0.25,0.25,0.05078125,1.0,3.0,4.0
+Sequoia SM,(Sequoia) Shukla & Melz,0.25,0.25,0.05078125,1.0,3.0,4.0
+Washington JA,(Washington) Jatiram & Agrawal,0.25,0.25,0.05078125,1.0,3.0,4.0
+Aptos MB,(Aptos) Barrett & Morrissey,0.25,0.25,0.05078125,1.0,3.0,4.0
+Leland ZS,(Leland) Zhang & Sananikone,0.25,0.25,0.05078125,1.0,3.0,4.0
+Los Gatos WQ,(Los Gatos) Wong & Qian,0.25,0.25,0.05078125,1.0,3.0,4.0
+Menlo-Atherton ML,(Menlo-Atherton) MacDonald & Loftman,0.25,0.25,0.05078125,1.0,3.0,4.0
+Menlo-Atherton MK,(Menlo-Atherton) McNerney & Klein,0.25,0.25,0.05078125,1.0,3.0,4.0
+Monta Vista KS,(Monta Vista) Kamarshi & Sreedhar,0.25,0.25,0.05078125,1.0,3.0,4.0
+Monta Vista KF,(Monta Vista) Kodur & Fu,0.25,0.25,0.05078125,1.0,3.0,4.0
+Leland JT,(Leland) Jadav & Tsudama,0.222222222222,0.223684210526,0.0372574318893,2.0,7.0,9.0
+Menlo-Atherton HW,(Menlo-Atherton) Hammel & Wilson,0.2,0.2,0.0272,2.0,8.0,10.0
+Crystal MM,(Crystal Springs Uplands) Mills & Ma,0.2,0.2,0.0272,1.0,4.0,5.0
+Crystal QM,(Crystal Springs Uplands) Qin & Ma,0.2,0.2,0.0272,1.0,4.0,5.0
+Cupertino MS,(Cupertino) Mahajan & Shearin,0.2,0.2,0.0272,1.0,4.0,5.0
+Davis Senior AA,(Davis Senior) Arias & Arias,0.2,0.2,0.0272,1.0,4.0,5.0
+El Cerrito BH,(El Cerrito) Barnell & Hilton,0.2,0.2,0.0272,1.0,4.0,5.0
+Gunn LM,(Gunn Sr) Li & Meyers,0.2,0.2,0.0272,1.0,4.0,5.0
+Monta Vista LC,(Monta Vista) Lee & Chandrasekar,0.2,0.2,0.0272,1.0,4.0,5.0
+Santa Rosa EC,(Santa Rosa HS) Ernst & Cederberg,0.2,0.2,0.0272,1.0,4.0,5.0
+Santa Rosa GF,(Santa Rosa HS) Gan & Fichtelberg,0.2,0.2,0.0272,1.0,4.0,5.0
+Washington SH,(Washington) Sharmma & Hibane,0.0714285714286,0.0661764705882,0.00110169768774,1.0,13.0,14.0
+Campolindo HP,(Campolindo) Hughey & Phadnis,0.0,0.0,0.0,0.0,5.0,5.0
+Evergreen NA,(Evergreen Valley) Noru & Arun,0.0,0.0,0.0,0.0,5.0,5.0
+Menlo-Atherton WY,(Menlo-Atherton) Wilson & Yu,0.0,0.0,0.0,0.0,5.0,5.0
+Cupertino CW,(Cupertino) Cho & Wang,0.0,0.0,0.0,0.0,4.0,4.0
+Pinewood SC,(Pinewood) Sethi & Cho,0.0,0.0,0.0,0.0,4.0,4.0
+Cupertino SL,(Cupertino) Shearin & Lee,0.0,0.0,0.0,0.0,4.0,4.0
+Leland HS,(Leland) Horng & Sananikone,0.0,0.0,0.0,0.0,4.0,4.0
+Los Gatos AC,(Los Gatos) Ankenbrandt & Chan,0.0,0.0,0.0,0.0,4.0,4.0
+Washington ST,(Washington) Shu & Thiyagarajan,0.0,0.0,0.0,0.0,4.0,4.0
+Aptos AD,(Aptos) Aguayo & Dimatulac,0.0,0.0,0.0,0.0,4.0,4.0
+Menlo-Atherton CX,(Menlo-Atherton) Chu & Xi,0.0,0.0,0.0,0.0,4.0,4.0
+Westmont SL,(Westmont) Salinas & Levy,0.0,0.0,0.0,0.0,4.0,4.0
